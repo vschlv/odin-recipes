@@ -1,0 +1,13 @@
+body {
+    background-color: #eee;
+    color: #414141;
+    width: 65vw;
+    margin: 0 auto;
+    font-family: 'Roboto', sans-serif;
+}
+
+img {
+    width: 40vw;
+    height: auto;
+    margin: 0 auto;
+}
